@@ -1,0 +1,26 @@
+.tibotto{
+    padding-top: 80px;
+ 
+}
+.pproas
+    {
+        height:100vh;
+    }
+
+@media screen and (max-width:1010px) 
+{
+    .pproas
+    {
+        height:150vh;
+    }
+}
+@media screen and (max-width:685px) 
+{
+    .tibotto{
+        padding-top: 10px;
+    }
+    .pproas
+    {
+        height:195vh;
+    }
+}
